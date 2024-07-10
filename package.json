@@ -1,0 +1,12 @@
+{
+  "name": "mbrocato-ef-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@edgio/cli": "^7.12.6",
+    "@edgio/core": "^7.12.6",
+    "@edgio/devtools": "^7.12.6",
+    "@edgio/prefetch": "^7.12.6"
+  }
+}
